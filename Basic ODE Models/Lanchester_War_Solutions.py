@@ -37,4 +37,4 @@ legend(loc = 'best')
 savefig('War.png')
 show()
 
-print "Army B dies out at time : ", t_int
+print("Army B dies out at time: ", t_int)
